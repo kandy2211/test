@@ -8,6 +8,10 @@ System.out.println("cost in 250000");
  public void speed() {
 System.out.println("speed is 210kmph");
 }
+ 
+ private void test() {
+
+}
 
  public static void main(String[] args) {
 	Ktm a = new Ktm();

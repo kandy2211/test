@@ -9,6 +9,11 @@ System.out.println("cost in 250000");
 System.out.println("speed is 210kmph");
 }
 
+private void test() {
+	// TODO Auto-generated method stub
+
+} 
+ 
  public static void main(String[] args) {
 	Ktm a = new Ktm();
 	a.cost();

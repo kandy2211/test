@@ -9,8 +9,8 @@ System.out.println("cost in 250000");
 System.out.println("speed is 210kmph");
 }
  
- private void test() {
-
+ public void rate() {
+System.out.println("innaiku panna git uh");
 }
 
  public static void main(String[] args) {

@@ -1,7 +1,18 @@
 package org.semester;
 
 public class Happy {
+	
+	public void sam() {
+		System.out.println("happy new year");
+		
+
+	}
+	
 public static void main(String[] args) {
-	System.out.println("happy for everything");
+	Happy a = new Happy();
+	a.sam();
+	System.out.println("hi");
+
+
 }
 }
